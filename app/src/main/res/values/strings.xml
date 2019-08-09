@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Historiku</string>
+    <string name="nama_benda">Nama Benda</string>
+    <string name="zaman">zaman</string>
+    <string name="paragraph">Batu besar yang didirikan secara tunggal atau berkelompok sejajar di atas tanah, namun pada beberapa tradisi juga ada yang diletakkan terlentang di tanah seperti yang ditemukan di Playen, Gunung Kidul. Menhir yang memiliki pahatan pada permukaannya sehingga fuat cepat membentuk figur tertentu atau menampilkan pola-pola hiasan disebut sebagai menhir arca(statue menhir). Menhir berfungsi sebagai sarana memuja roh nenek moyang. Lokasi penemuan menhir tercatat di Eropa, Timur Tengah, Afrika Barat, India, Korea, serta Nusantara (Sumatra Barat, Gunung Kidul, Sulawesi Tengah, Sulawesi Selatan, Jawa Barat, dan Kalimantan)</string>
+    <string name="name">Nadya Aditama</string>
+    <string name="email">nadya.aditama@gmail.com</string>
+    <string name="greeting">Halo dan terima kasih sudah menggunakan aplikasi ini. Semoga aplikasi ini sangat berguna untuk mempelajari benda-benda bersejarah di indonesia.</string>
+</resources>
